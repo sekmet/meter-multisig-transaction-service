@@ -1,9 +1,9 @@
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Django 3](https://img.shields.io/badge/Django-3-blue.svg)
 
-# Harmony Transaction Service
+# Meter Transaction Service
 
-Keeps track of transactions sent via Harmony Safe contracts. It uses events and
+Keeps track of transactions sent via Meter Safe contracts. It uses events and
 [tracing](https://openethereum.github.io/JSONRPC-trace-module) to index the txs.
 
 Transactions are detected in an automatic way, so there is no need of informing the service about the transactions as in
